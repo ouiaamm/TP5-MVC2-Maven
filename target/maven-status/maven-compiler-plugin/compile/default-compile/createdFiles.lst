@@ -1,0 +1,11 @@
+dao\Produit.class
+filter\AuthFilter.class
+util\HibernateUtil.class
+services\ProduitServiceImpl.class
+controller\ProduitControllerServlet.class
+services\ProduitService.class
+dao\ProduitDAOImpl.class
+dao\ProduitDAO.class
+model\Produit.class
+controller\AuthControllerServlet.class
+model\User.class

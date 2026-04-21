@@ -1,0 +1,11 @@
+C:\Users\user\eclipse-workspace\TP4-JEE-CRUD\src\main\java\controller\AuthControllerServlet.java
+C:\Users\user\eclipse-workspace\TP4-JEE-CRUD\src\main\java\controller\ProduitControllerServlet.java
+C:\Users\user\eclipse-workspace\TP4-JEE-CRUD\src\main\java\dao\Produit.java
+C:\Users\user\eclipse-workspace\TP4-JEE-CRUD\src\main\java\dao\ProduitDAO.java
+C:\Users\user\eclipse-workspace\TP4-JEE-CRUD\src\main\java\dao\ProduitDAOImpl.java
+C:\Users\user\eclipse-workspace\TP4-JEE-CRUD\src\main\java\filter\AuthFilter.java
+C:\Users\user\eclipse-workspace\TP4-JEE-CRUD\src\main\java\model\Produit.java
+C:\Users\user\eclipse-workspace\TP4-JEE-CRUD\src\main\java\model\User.java
+C:\Users\user\eclipse-workspace\TP4-JEE-CRUD\src\main\java\services\ProduitService.java
+C:\Users\user\eclipse-workspace\TP4-JEE-CRUD\src\main\java\services\ProduitServiceImpl.java
+C:\Users\user\eclipse-workspace\TP4-JEE-CRUD\src\main\java\util\HibernateUtil.java
